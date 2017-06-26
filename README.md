@@ -1,5 +1,8 @@
 # datasets
-Various unique "real-world" datasets specifically for deep learning purpose. 
+Various unique "real-world" datasets specifically for deep learning purpose. The files are provided in .msgpack format and can be also used separately from Autonomio for example with Pandas:
+
+    import pandas as pd
+    pd.read_msgpack('https://github.com/autonomio/datasets/raw/master/autonomio-datasets/election_in_twitter')
 
 ### 'election_in_twitter'
 Dataset consisting of 10 minute samples of 80 million tweets.
