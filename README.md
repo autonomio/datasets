@@ -20,4 +20,7 @@ Data from both buy and sell side and over 10 other sources.
 9 years of monthly poll and unemployment numbers.
 
 ### 'random_tweets'        
-20,000 tweets main intended for.
+20,000 tweets with various data colums related with tweet quality, including if the tweet is from a bot or not. 
+
+### 'kaggle_titanic_train'
+The train dataset provided as part of the hugely popular [Kaggle Titanic Survitor](https://www.kaggle.com/c/titanic/data) prediction challenge.
