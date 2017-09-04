@@ -24,3 +24,6 @@ Data from both buy and sell side and over 10 other sources.
 
 ### 'kaggle_titanic_train'
 The train dataset provided as part of the hugely popular [Kaggle Titanic Survitor](https://www.kaggle.com/c/titanic/data) prediction challenge.
+
+### 'sites_and_vec'
+20,000 sites with word vectors based on the landing page content. 
